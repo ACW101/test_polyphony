@@ -1,0 +1,2 @@
+body{margin:0;padding:0;font-family:sans-serif}#container{width:100%;margin:0 auto}#songTitle{position:absolute;display:inline-block;z-index:3;padding:0 10px}#canvas{height:300px;padding-top:50px}#svgToRight{background-color:rgba(255.255.255.0.5);position:absolute;height:500px;width:50px;right:0;top:0}#songDescription{position:fixed;width:100%;bottom:0;z-index:2;height:300px}h5{-webkit-margin-before:.5em;-webkit-margin-after:.5em}.footer{font-family:Arial,Helvetica,sans-serif;font-weight:lighter;font-size:10px,}
+/*# sourceMappingURL=main.c89bd437.css.map*/
